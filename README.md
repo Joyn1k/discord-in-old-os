@@ -4,6 +4,7 @@ Allows you to launch Discord directly from your Windows 8.1 or Windows 7
 Before using Discord, please meet the following dependencies:
 1. Download Python: https://www.python.org/ftp/python/3.8.6/python-3.8.6.exe
 2. Download script: https://github.com/Joyn1k/discord-in-windows7-8.1/blob/main/chrome-discord.py
-3. Open cmd and typing: python -m pip install --upgrade pip
-4. pip install selenium
-5. Open script
+3. Download Chrome: https://github.com/Joyn1k/discord-in-windows7-8.1/blob/main/ChromeSetup.exe
+4. Open cmd and typing: python -m pip install --upgrade pip
+5. pip install selenium
+6. Open script
