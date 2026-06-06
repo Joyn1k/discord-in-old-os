@@ -13,7 +13,7 @@ Before using Discord, please meet the following dependencies: https://github.com
 5. pip install selenium
 6. Open script
 
-# For Linux
+# For Linux🐧
 8. <img width="1280" height="720" alt="linux-verison" src="https://github.com/user-attachments/assets/21a33c65-6a5a-49aa-aae8-b2c966fb7681" />
 To install the Linux version, download the script from the releases page: https://github.com/Joyn1k/discord-in-old-os/releases/tag/Chrome-discord-linux
 1. Install python
