@@ -8,7 +8,14 @@ Before using Discord, please meet the following dependencies:
 4. Open cmd and type: python -m pip install --upgrade pip
 5. pip install selenium
 6. Open script
-
-7. For Linux
+###############
+# For Linux
 8. <img width="1280" height="720" alt="linux-verison" src="https://github.com/user-attachments/assets/21a33c65-6a5a-49aa-aae8-b2c966fb7681" />
-Для установки Линукс версии, скачайте скрипт на странице релизов: 
+To install the Linux version, download the script from the releases page: https://github.com/Joyn1k/discord-in-old-os/releases/tag/Chrome-discord-linux
+1. Install python
+2. Install chromedriver
+3. Install selenium
+4. Install google-chrome
+5. Download script in folder
+6. Please make the script executable (sudo chmod +x "/path to folder with script/")
+7. Open script: python3 "/folder/"discord-chrome-in-linux
