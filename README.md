@@ -1,4 +1,3 @@
-# All Releases: https://github.com/Joyn1k/discord-in-old-os/releases
 # Logo :3 
 ![Лого](https://github.com/Joyn1k/discord-in-old-os/raw/main/cutecord.ico)
 
