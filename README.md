@@ -1,3 +1,4 @@
+# To avoid account blocking, DO NOT overuse your account login!
 # Logo :3 
 ![Лого](https://github.com/Joyn1k/discord-in-old-os/raw/main/cutecord.ico)
 
